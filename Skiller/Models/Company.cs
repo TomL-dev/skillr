@@ -7,7 +7,7 @@ namespace Skiller.Models
 {
 	public class Company
 	{
-		public long ID { get; set; }
+		public int ID { get; set; }
 		public string Name { get; set; }
 	}
 }
